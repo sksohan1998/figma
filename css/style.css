@@ -1,0 +1,120 @@
+/* all common css :start */
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,li{
+    list-style: none;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+
+/* all common css :end */
+
+/* header part start */
+.headerflex{
+    display: flex;
+    justify-content: space-between;
+}
+#headerpart{
+    padding: 35px 0;
+}
+.menu {
+    padding-top: 12px;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    padding: 0 38px;
+    font-size: 16px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    color: black;
+}
+.icon{
+    padding-top: 12px;
+   }
+.icon i{
+    padding: 0 23px;
+}
+/* banner part end */
+#banner{
+    background: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 155px;
+    padding-bottom: 125px;
+}
+.bannerflex{
+    display: flex;
+}
+.bannerleft{
+    width: 50%;
+}
+.bannerright{
+    width: 50%;
+    padding: 70px 45px;
+    background-color: #FFF3E3;
+    border-radius: 10px;
+}
+.bannerright h4{
+    font-size: 16px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #333333;
+}
+.bannerright h1{
+    font-size: 52px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #B88E2F;
+    line-height: 65px;
+    padding-right: 146px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+.bannerright p{
+    font-size: 18px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    color: 333333;
+    line-height: 24px;
+    padding-right: 89;
+    padding-bottom: 54px;
+}
+.bannerright a{
+padding: 30px 70px;
+background-color: #B88E2F;
+font-size: 16px;
+font-family: "Poppins", serif;
+font-weight: 700;
+color: #fff;
+text-transform: uppercase;
+
+}
+
+
+
+/* banner part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
